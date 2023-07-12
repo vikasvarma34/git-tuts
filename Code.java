@@ -5,5 +5,6 @@ public class Code{
         int result = a * b;
         System.out.println(result);
         System.out.println("Hello Git");
+        System.out.println("Extra Line");
     }
 }
